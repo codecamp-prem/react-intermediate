@@ -11,6 +11,6 @@ To get started, follow these steps:
 React course covering intermediate-level topics.
 
 - Fetching and updating data with React Query
-- All about reducers, context, and providers
+- All about reducers, context, and providers from React
 - Managing application state with Zustand
 - Routing with React Router
